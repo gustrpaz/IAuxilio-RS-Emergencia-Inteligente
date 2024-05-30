@@ -2,6 +2,10 @@
 
 O projeto **IAuxílio RS: Emergência Inteligente** é uma aplicação prática da inteligência artificial para lidar com situações de emergência, especialmente as enchentes ocorridas recentemente no Rio Grande do Sul.
 
+<br />
+<img src="https://i.imgur.com/ZHJOEYe.jpeg"></img>
+<br />
+
 ## Objetivo
 O objetivo principal é utilizar a inteligência artificial para gerar modelos de chamados com informações cruciais para diferentes níveis de emergência. Isso é feito fornecendo exemplos de entradas (relatos da situação) e saídas (instruções para lidar com a emergência).
 
@@ -17,13 +21,22 @@ Essa abordagem permite uma resposta mais eficiente e direcionada a situações d
 
 Este repositório contém os arquivos e códigos necessários para executar a aplicação IAuxílio RS: Emergência Inteligente.
 
-## Como utilizar
+<br />
+<img src="https://i.imgur.com/nopaE3j.png"></img>
+<br />
+
+## Aplicação contruída com Flask
+
+Descreve o desenvolvimento de um sistema distribuído que utiliza a API do ViaCep e a Inteligência Artificial Gemini para fornecer informações e orientações essenciais. Utilizando o banco de dados SQLite, juntamente com o micro framework Flask e a biblioteca Flask_SQLAlchemy, que busca criar uma solução acessível para lidar com emergências, com um foco especial no recente desastre no Rio Grande do Sul.
+
+## Como utilizar com Google Colab
 
 ### Requisitos:
 - Conta no Google Colab
 - Navegador web compatível
 - API Key do Gemini: Você precisará gerar uma API Key para usar o Gemini. As instruções sobre como gerar uma API Key podem ser encontradas na documentação do Gemini: [Documentação do Gemini](https://ai.google.dev/gemini-api/docs)
-
+- Para visualizar a aplicação construída com Flask, é recomendado ter alguma IDE instalada para rodar o código (OBS: criar um arquivo .env e configurar uma SECRET_KEY para receber sua API KEY do Gemini.
+  
 ### Passo a passo:
 
 1. Acesse o notebook do projeto:
