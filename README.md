@@ -7,7 +7,7 @@ O projeto **IAuxílio RS: Emergência Inteligente** é uma aplicação prática 
 <br />
 
 ## Objetivo
-O objetivo principal é utilizar a inteligência artificial para gerar modelos de chamados com informações cruciais para diferentes níveis de emergência. Isso é feito fornecendo exemplos de entradas (relatos da situação) e saídas (instruções para lidar com a emergência).
+O objetivo principal é utilizar a inteligência artificial para gerar modelos de chamados com informações cruciais para diferentes níveis de emergência, que serão atendidos por uma equipe de operação. Isso é feito fornecendo exemplos de entradas (relatos da situação) e saídas (instruções para lidar com a emergência).
 
 ## Funcionamento
 Cada entrada descreve uma situação específica, desde grupos isolados em telhados até alagamentos em ruas, com diferentes níveis de gravidade e necessidade de intervenção. Com base nessas entradas, a IA gera respostas detalhadas, incluindo título, síntese da situação, prioridade, localização, recursos necessários e ações a serem tomadas.
