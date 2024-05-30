@@ -17,7 +17,7 @@ Essa abordagem permite uma resposta mais eficiente e direcionada a situações d
 
 Este repositório contém os arquivos e códigos necessários para executar a aplicação IAuxílio RS: Emergência Inteligente.
 
-## Como utilizar
+## Como utilizar com Google Colab
 
 ### Requisitos:
 - Conta no Google Colab
