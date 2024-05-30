@@ -25,6 +25,10 @@ Este repositório contém os arquivos e códigos necessários para executar a ap
 <img src="https://i.imgur.com/nopaE3j.png"></img>
 <br />
 
+## Aplicação contruída com Flask
+
+Descreve o desenvolvimento de um sistema distribuído que utiliza a API do ViaCep e a Inteligência Artificial Gemini para fornecer informações e orientações essenciais. Utilizando o banco de dados SQLite, juntamente com o micro framework Flask e a biblioteca Flask_SQLAlchemy, que busca criar uma solução acessível para lidar com emergências, com um foco especial no recente desastre no Rio Grande do Sul.
+
 ## Como utilizar com Google Colab
 
 ### Requisitos:
