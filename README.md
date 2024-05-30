@@ -3,7 +3,7 @@
 O projeto **IAuxílio RS: Emergência Inteligente** é uma aplicação prática da inteligência artificial para lidar com situações de emergência, especialmente as enchentes ocorridas recentemente no Rio Grande do Sul.
 
 <br />
-<img src="https://i.imgur.com/ZHJOEYe.jpeg"></img>
+<img src="https://i.imgur.com/Yc5rycc.jpeg"></img>
 <br />
 
 ## Objetivo
